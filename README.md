@@ -15,4 +15,4 @@ Follow these steps to set up and run the SQL database:
 
 ### 2 Clone the Repository
 Run this command in your terminal to **download the project**:
-git clone https://github.com/Musenya31/inventorymanagement.git
+git clone https://github.com/Musenya31/plp-database
